@@ -118,4 +118,4 @@ We store the final dataframe after cleaning in a CSV file as twitter_archive_mas
 
 Most favorite dog breed which is tweeted on WeRateDogs
 
-![alt text[(https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-WeRateDogs/blob/master/dogs_breed_twitter.png)
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-WeRateDogs/blob/master/dogs_breed_twitter.png)
