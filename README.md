@@ -99,8 +99,12 @@ In data cleaning phase we address the issues as described in "accessing data". T
 
 # IV. Storing, Analyzing, and Visualizing Data
 
-We store the final dataframe after cleaning in a CSV file as twitter_archive_master.csv. We also analysis and visualize the results using python libraries and Tableau. In the analysis we have tried to explore the top dog breeds, average ratings, tweet favorite count, and sources for the tweets (devices). On the other hand Tableau, which is data visualization tool for creating interactive plots and graphs is used to see the trend of dog names, and on which day of week favorite count & retweet count is more. After performing the above analysis we can be able to provide top insights as follows:
+We store the final dataframe after cleaning in a CSV file as twitter_archive_master.csv. We also analysis and visualize the results using python libraries and Tableau. In the analysis we have tried to explore the top dog breeds, average ratings, tweet favorite count, and sources for the tweets (devices). On the other hand Tableau, which is data visualization tool for creating interactive plots and graphs is used to see the trend of dog names, and on which day of week favorite count & retweet count is more. 
 
+
+After performing the above analysis we can be able to provide top insights as follows:
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-WeRateDogs/blob/master/dogstage.png)
 
 # Top insights after analysis 
 
@@ -113,6 +117,7 @@ We store the final dataframe after cleaning in a CSV file as twitter_archive_mas
     4. Famous dog names were Charlie, Cooper, Lucy, Oliver, and Tucker. 
     5. Most of the tweets came from iPhone. 
 
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-WeRateDogs/blob/master/dognames.png)
 
 # Top visualization 
 
